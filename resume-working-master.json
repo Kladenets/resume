@@ -1,6 +1,6 @@
 {
   "meta": {
-    "theme": "jsonresume-theme-stackoverflow-react",
+    "theme": "jsonresume-theme-stackoverflow",
     "themeOptions": {
       "colors": {
         "background": ["#ffffff", "#191e23"],
