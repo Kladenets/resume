@@ -11,7 +11,6 @@
       }
     }
   },
-  "selectedTemplate": 9,
   "headings": {
     "education": "Education",
     "skills": "Skills",
@@ -24,7 +23,9 @@
     "phone": "2678240296",
     "name": "Kyle Kent",
     "location": {
-      "address": "Dublin, PA"
+      "city": "Dublin",
+      "region": "Pennsylvania",
+      "countryCode": "US"
     },
     "profiles": [
     {
