@@ -1,6 +1,6 @@
 {
   "meta": {
-    "theme": "jsonresume-theme-macchiato",
+    "theme": "jsonresume-theme-stackoverflow-react",
     "themeOptions": {
       "colors": {
         "background": ["#ffffff", "#191e23"],
@@ -17,7 +17,7 @@
     "phone": "2678240296",
     "name": "Kyle Kent",
     "location": {
-      "city": "Dublin",
+      "city": "Philadelphia",
       "region": "Pennsylvania",
       "countryCode": "US"
     },
@@ -50,13 +50,13 @@
       "website": "",
       "startDate": "2022-06",
       "highlights": [
-        "Co-led development of Vaka, a greenfield, real-time observability platform that improved error resolution for customer-facing online shopping issues, reducing MTTR",
+        "Co-led development of Vaka, a greenfield, real-time observability platform that enhanced error resolution in customer-facing online shopping systems, significantly reducing Mean Time to Recovery (MTTR)",
         "Integrated client-side routing with React Router for the Cart SPA, enabling robust A/B testing and smoother user experiences",
         "Developed and optimized online checkout features to reduce load times, improve error messaging, and enhance UI clarity around service selections and product groupings",
         "Founded and led a company-wide DevOps Guild standardizing workflows and training across GCP, Terraform, and GitHub Actions",
         "Spearheaded a login gateway initiative, coordinating cross-team efforts to introduce A/B tested login flows that improved user authentication rates",
         "Created a reusable GCP project repository template using Terraform and Workload Identity Federation for GitHub",
-        "Monthly on call shifts supporting global checkout, identifying and debugging production issues, and managing market rollbacks as needed",
+        "Managed monthly on-call shifts for global checkout support, effectively identifying and resolving production issues and managing market rollbacks",
         "Collaborated with internal frontend design team to identify, report, and deliver bugfixes",
         "Resolved a critical security vulnerability in the gift registry flow, safeguarding sensitive customer address information",
         "Mentored 4 new engineers through structured weekly sessions, accelerating onboarding timelines by providing hands-on guidance and technical walkthroughs and authored onboarding templates for React, TypeScript, and Git best practices"
@@ -82,7 +82,7 @@
         "Developed a NLP chat app with a React/Redux frontend, Django backend integrated with Google DialogFlow",
         "Implemented conversational logic for a healthcare chatbot using Django middleware and DialogFlow intent structures",
         "Optimized data polling and statistics calculations in an Angular-based patient management system",
-        "Built virtual assistant UI components in React to enhance engagement and integrate conversational features"
+        "Developed virtual assistant UI components in React, leading to an increase in user engagement and streamlined conversational feature integration"
       ],
       "company": "BrickSimple LLC",
       "position": "Software Engineer",
@@ -102,7 +102,7 @@
       "highlights": [
         "Modernized legacy financial applications by refactoring outdated architecture and improving code readability and maintainability",
         "Created SQL tools for database optimization, enhancing data integrity and boosting query performance",
-        "Worked directly with clients to gather requirements and deliver tailored software solutions"
+        "Collaborated closely with clients to gather requirements and successfully delivered tailored software solutions"
       ],
       "company": "First Trust Portfolios",
       "position": "Software Engineer",
@@ -116,7 +116,8 @@
       "name": "Web Development",
       "level": "Proficient",
       "keywords": [
-        "React",
+        "React (v16-19)",
+        "React Router",
         "Redux",
         "Preact",
         "TypeScript",
