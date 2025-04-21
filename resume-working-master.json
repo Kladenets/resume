@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "theme": "jsonresume-theme-macchiato",
+    "themeOptions": {
+      "colors": {
+        "background": ["#ffffff", "#191e23"],
+        "dimmed": ["#f3f4f5", "#23282d"],
+        "primary": ["#191e23", "#fbfbfc"],
+        "secondary": ["#6c7781", "#cdddd4"],
+        "accent": ["#0073aa", "#00a0d2"]
+      }
+    }
+  },
+  "selectedTemplate": 9,
+  "headings": {
+    "education": "Education",
+    "skills": "Skills",
+    "awards": "",
+    "work": "Experience"
+  },
+  "basics": {
+    "email": "kkent908@gmail.com",
+    "label": "Software Engineer",
+    "phone": "2678240296",
+    "name": "Kyle Kent",
+    "location": {
+      "address": "Dublin, PA"
+    },
+    "profiles": [
+    {
+      "network": "Linkedin",
+      "username": "kylekentpa",
+      "url": "https://linkedin.com/in/kylekentpa"
+    }, {
+      "network": "Github",
+      "username": "Kladenets",
+      "url": "https://github.com/Kladenets"
+    }
+  ],
+    "website": "https://github.com/Kladenets"
+  },
+  "education": [
+    {
+      "studyType": "BS",
+      "area": "Computer Science",
+      "startDate": "2013-09",
+      "endDate": "2017-05",
+      "institution": "Wheaton College",
+      "location": "Wheaton, IL"
+    }
+  ],
+  "work": [
+    {
+      "company": "IKEA North America Services, LLC",
+      "website": "",
+      "startDate": "2022-06",
+      "highlights": [
+        "Co-led development of Vaka, a greenfield, real-time observability platform that improved error resolution for customer-facing online shopping issues, reducing MTTR",
+        "Integrated client-side routing with React Router for the Cart SPA, enabling robust A/B testing and smoother user experiences",
+        "Developed and optimized online checkout features to reduce load times, improve error messaging, and enhance UI clarity around service selections and product groupings",
+        "Founded and led a company-wide DevOps Guild standardizing workflows and training across GCP, Terraform, and GitHub Actions",
+        "Spearheaded a login gateway initiative, coordinating cross-team efforts to introduce A/B tested login flows that improved user authentication rates",
+        "Created a reusable GCP project repository template using Terraform and Workload Identity Federation for GitHub",
+        "Monthly on call shifts supporting global checkout, identifying and debugging production issues, and managing market rollbacks as needed",
+        "Collaborated with internal frontend design team to identify, report, and deliver bugfixes",
+        "Resolved a critical security vulnerability in the gift registry flow, safeguarding sensitive customer address information",
+        "Mentored 4 new engineers through structured weekly sessions, accelerating onboarding timelines by providing hands-on guidance and technical walkthroughs and authored onboarding templates for React, TypeScript, and Git best practices"
+      ],
+      "position": "Software Engineer",
+      "location": "Conshohocken, PA"
+    },
+    {
+      "highlights": [
+        "Architected and developed Angular components such as a dynamic reporting table, interactive OPC device parameter navigation, and editable data tables with conditional logic",
+        "Designed a configurable alert infrastructure integrating SQL stored procedures, Angular dialogs, and web API hooks to automate notifications",
+        "Optimized SQL stored procedures, significantly reducing query latency and improving overall response times",
+        "Refactored legacy Angular and SQL codebases to eliminate performance bottlenecks and improve maintainability"
+      ],
+      "company": "Proconex",
+      "position": "Software Engineer",
+      "location": "Royersford, PA",
+      "startDate": "2021-02",
+      "endDate": "2022-06"
+    },
+    {
+      "highlights": [
+        "Developed a NLP chat app with a React/Redux frontend, Django backend integrated with Google DialogFlow",
+        "Implemented conversational logic for a healthcare chatbot using Django middleware and DialogFlow intent structures",
+        "Optimized data polling and statistics calculations in an Angular-based patient management system",
+        "Built virtual assistant UI components in React to enhance engagement and integrate conversational features"
+      ],
+      "company": "BrickSimple LLC",
+      "position": "Software Engineer",
+      "startDate": "2020-02",
+      "endDate": "2021-01",
+      "location": "Doylestown, PA"
+    },
+    {
+      "highlights": [],
+      "company": "His Mansion Ministries",
+      "position": "Servant Leader",
+      "location": "Deering, NH",
+      "startDate": "2018-09",
+      "endDate": "2019-10"
+    },
+    {
+      "highlights": [
+        "Modernized legacy financial applications by refactoring outdated architecture and improving code readability and maintainability",
+        "Created SQL tools for database optimization, enhancing data integrity and boosting query performance",
+        "Worked directly with clients to gather requirements and deliver tailored software solutions"
+      ],
+      "company": "First Trust Portfolios",
+      "position": "Software Engineer",
+      "location": "Wheaton, IL",
+      "startDate": "2016-08",
+      "endDate": "2018-09"
+    }
+  ],
+  "skills": [
+    {    
+      "name": "Web Development",
+      "level": "Proficient",
+      "keywords": [
+        "React",
+        "Redux",
+        "Preact",
+        "TypeScript",
+        "HTML/CSS",
+        "Jest/React Testing Library",
+        "Optimizely",
+        "Tailwind CSS",
+        "Next.js"
+      ]
+    },
+    {
+      "name": "Dev Ops/Cloud Infrastructure",
+      "level": "Proficient",
+      "keywords": [
+        "Git",
+        "GCP",
+        "Terraform",
+        "Github Actions",
+        "GHAS"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Proficient",
+      "keywords": [
+        "Agile/Scrum",
+        "Engineering Mentorship"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Intermediate",
+      "keywords": [
+        "C/C++/C#",
+        "Python",
+        "Java",
+        "REST APIs",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "level": "Intermediate",
+      "keywords": [
+        "SQL",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "projects": [{
+    "name": "To-dos",
+    "startDate": "2025-03",
+    "description": "Basic todo list application for continued learning purposes, focusing on Tailwind CSS, Next.js App Router, and MinimongoDB",
+    "url": "https://github.com/Kladenets/next-intro"
+  }],
+  "sections": [
+    "templates",
+    "profile",
+    "skills",
+    "work",
+    "projects",
+    "education"
+  ]
+}
