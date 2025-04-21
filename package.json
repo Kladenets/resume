@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Professional resume based on the JSON Resume standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kladenets/resume.git"
+  },
+  "author": "Kyle Kent kkent908@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kladenets/resume/issues"
+  },
+  "homepage": "https://github.com/Kladenets/resume#readme",
+  "dependencies": {
+    "jsonresume-theme-classy": "^1.0.9",
+    "jsonresume-theme-even": "^0.23.0",
+    "jsonresume-theme-macchiato": "^1.1.0",
+    "resumed": "^5.0.0"
+  }
+}
