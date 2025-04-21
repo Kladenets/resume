@@ -1,8 +1,10 @@
 
 name: Update Resume Gist
 
-on: push
-
+on: 
+    push:
+        paths:
+        - 'resume-working-master.json'
 jobs:
   update-resume-gist:
     runs-on: ubuntu-latest 
