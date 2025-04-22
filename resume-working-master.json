@@ -1,15 +1,7 @@
 {
   "meta": {
-    "theme": "macchiato",
-    "themeOptions": {
-      "colors": {
-        "background": ["#ffffff", "#191e23"],
-        "dimmed": ["#f3f4f5", "#23282d"],
-        "primary": ["#191e23", "#fbfbfc"],
-        "secondary": ["#6c7781", "#cdddd4"],
-        "accent": ["#0073aa", "#00a0d2"]
-      }
-    }
+    "theme": "full",
+    "accent": "#b4d455"
   },
   "basics": {
     "email": "kkent908@gmail.com",
