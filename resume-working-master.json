@@ -71,9 +71,9 @@
     },
     {
       "highlights": [
-        "Developed a NLP chat app with a React/Redux frontend, Django backend integrated with Google DialogFlow",
-        "Implemented conversational logic for a healthcare chatbot using Django middleware and DialogFlow intent structures",
+        "Developed a HIPAA compliant, NLP chat app using Google DialogFlow with a React/Redux frontend and Django backend",
         "Optimized data polling and statistics calculations in an Angular-based patient management system",
+        "Worked directly with clients to gather requirements, architect solutions, implement designs, beta test with users, and deliver tailored software applications",
         "Developed virtual assistant UI components in React, leading to an increase in user engagement and streamlined conversational feature integration"
       ],
       "company": "BrickSimple LLC",
