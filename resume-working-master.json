@@ -71,7 +71,7 @@
     },
     {
       "highlights": [
-        "Developed a HIPAA compliant, NLP chat app using Google DialogFlow with a React/Redux frontend and Django backend",
+        "Developed a HIPAA compliant, NLP healthcare chat app designed to answer patients' post-surgery care questions. Built using Google DialogFlow with a React/Redux frontend and Django backend",
         "Optimized data polling and statistics calculations in an Angular-based patient management system",
         "Worked directly with clients to gather requirements, architect solutions, implement designs, beta test with users, and deliver tailored software applications",
         "Developed virtual assistant UI components in React, leading to an increase in user engagement and streamlined conversational feature integration"
