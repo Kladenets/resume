@@ -23,7 +23,8 @@
       "url": "https://github.com/Kladenets"
     }
   ],
-    "website": "https://kylekent.dev"
+    "website": "https://kylekent.dev",
+    "url": "https://kylekent.dev"
   },
     "skills": [
     {    
@@ -84,10 +85,11 @@
   "work": [
     {
       "company": "IKEA North America Services, LLC",
+      "name": "IKEA North America Services, LLC",
       "website": "",
       "startDate": "2022-06",
       "highlights": [
-        "Co-led development of Vaka, a greenfield, real-time observability platform that enhanced error resolution in customer-facing online shopping systems, significantly reducing Mean Time to Recovery (MTTR)",
+        "Drove development of Vaka, a greenfield, real-time observability platform built with Fastly, Dynamic Web Framework, Preact, GCP, and MongoDB that enhanced error resolution in customer-facing online shopping systems, significantly reducing Mean Time to Recovery (MTTR)",
         "Integrated client-side routing with React Router for the Cart SPA, enabling robust A/B testing and smoother user experiences",
         "Developed and optimized online checkout features to reduce load times, improve error messaging, and enhance UI clarity around service selections and product groupings",
         "Mentored 4 new engineers through structured weekly sessions, accelerating onboarding timelines by providing hands-on guidance and technical walkthroughs and authored onboarding templates for React, TypeScript, and Git best practices",
@@ -95,7 +97,7 @@
         "Collaborated with internal frontend design team to identify, report, and deliver bugfixes",
         "Founded and led a company-wide DevOps Guild standardizing workflows and training across GCP, Terraform, and GitHub Actions",
         "Resolved a critical security vulnerability in the gift registry flow, safeguarding sensitive customer address information",
-        "Created a reusable GCP project repository template using Terraform and GitHub Workload Identity Federation",
+        "Created a project repository template using Terraform and integrating GCP with GitHub using Workload Identity Federation",
         "Managed monthly on-call shifts for global checkout support, effectively identifying and resolving production issues and managing market rollbacks"
 
       ],
@@ -110,6 +112,7 @@
         "Refactored legacy Angular and SQL codebases to eliminate performance bottlenecks and improve maintainability"
       ],
       "company": "Proconex",
+      "name": "Proconex",
       "position": "Software Engineer",
       "location": "Royersford, PA",
       "startDate": "2021-02",
@@ -123,6 +126,7 @@
         "Developed virtual assistant UI components in React, leading to an increase in user engagement and streamlined conversational feature integration"
       ],
       "company": "BrickSimple, LLC",
+      "name": "BrickSimple, LLC",
       "position": "Software Engineer",
       "startDate": "2020-02",
       "endDate": "2021-01",
@@ -133,6 +137,7 @@
         "Led and mentored residents in a structured recovery program, fostering accountability, emotional resilience, and teamwork through daily guidance, conflict resolution, and collaborative problem-solving"      
       ],
       "company": "His Mansion Ministries",
+      "name": "His Mansion Ministries",
       "position": "Servant Leader",
       "location": "Deering, NH",
       "startDate": "2018-09",
@@ -145,6 +150,7 @@
         "Collaborated closely with clients to gather requirements and successfully delivered tailored software solutions"
       ],
       "company": "First Trust Portfolios",
+      "name": "First Trust Portfolios",
       "position": "Software Engineer",
       "location": "Wheaton, IL",
       "startDate": "2016-08",
