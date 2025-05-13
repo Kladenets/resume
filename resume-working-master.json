@@ -1,12 +1,14 @@
 {
   "meta": {
-    "theme": "onepage-plus"
+    "theme": "macchiato"
   },
   "basics": {
     "email": "contact@kylekent.dev",
     "label": "Software Engineer",
     "phone": "2678240296",
     "name": "Kyle Kent",
+    "url": "https://kylekent.dev",
+    "website": "https://kylekent.dev",
     "location": {
       "city": "Philadelphia",
       "region": "Pennsylvania",
@@ -22,9 +24,7 @@
       "username": "Kladenets",
       "url": "https://github.com/Kladenets"
     }
-  ],
-    "website": "https://kylekent.dev",
-    "url": "https://kylekent.dev"
+  ]
   },
     "skills": [
     {    
